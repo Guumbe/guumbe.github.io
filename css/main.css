@@ -1,0 +1,124 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+	text-align: middle;
+	background-color: #252525;
+	color: #fff;
+	margin: auto;
+    width: 100%;
+    padding: 0px;
+}
+
+.navbar {
+	background-color: #0DB2EC;
+	text-align: center;
+	margin-top: 5px 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 50px;
+	color: #fff;
+	background-position: right top;
+	font-family: Papyrus, fantasy;
+}
+
+.header {
+	background-image: url(../sharma.png);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color: #fff;
+	padding-top: 175px;
+}
+
+#intro {
+	text-align: center;
+	margin-left: 350px;
+	padding-bottom: 300px;
+    font-family: Papyrus, fantasy;	
+    font-weight: lighter;
+    font-size: 22px;
+} 
+
+.myButton {
+	background-color:#0db1ec;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #0db1ec;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:30px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+
+.myButton:hover {
+	background-color:#0db1ec;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton-1 {
+	background-color:#3fb500;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #3fb500;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:30px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #1fe600;
+}
+.myButton-1:hover {
+	background-color:#52db09;
+}
+.myButton-1:active {
+	position:relative;
+	top:1px;
+}
+
+.backgr {
+    background-image: url(../back22.jpg);
+	background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: 100% 100%;
+    color: #000;
+    padding-top: 25px;
+}
+
+#p {
+    font-family: Didot, 'Didot LT STD', 'Hoefler Text', Garamond, 'Times New Roman', serif;	font-size: 24px;
+	font-weight: lighter;
+	text-indent: 2%;
+}
+
+.resum {
+	font-family: 'Goudy Old Style', Garamond, 'Big Caslon', 'Times New Roman', serif;
+	font-size: 28px;
+	text-align: center;
+
+}
+
+.footer {
+	background-color: #fff;
+	text-align: center;
+	font-size: 18px;
+}
+
+.back {
+	text-align: center;
+}
+
+.center li {
+	text-decoration: none;
+	text-indent: 5%;
+}
+
+
